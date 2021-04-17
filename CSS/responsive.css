@@ -1,0 +1,12 @@
+@media screen and (max-width: 768px) {
+  .navBar {
+    padding-left: 15px;
+  }
+  .section1 {
+    width: 95%;
+    width: 655px;
+    position: relative;
+    background-image: url(../Images/image2.jpg);
+    background-position: center;
+  }
+}
