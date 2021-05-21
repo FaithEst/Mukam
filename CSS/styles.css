@@ -4,6 +4,8 @@
 }
 body {
   font-family: sans-serif;
+  width: 100%;
+  overflow: hidden;
 }
 .introSection {
   width: 100%;
